@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. _I play the guitar_
+2. **I'm also learning the JAVA programming language
+3. *I'm an experienced hunter and fisherman*
